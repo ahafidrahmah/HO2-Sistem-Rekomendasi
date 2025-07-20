@@ -1,0 +1,546 @@
+[
+  {
+    "job_title": "Job 1",
+    "recommended_courses": [
+      {
+        "course_name": "Job Success: Get Hired or Promoted in 3 Steps",
+        "score": 0.6028035879135132
+      },
+      {
+        "course_name": "How To Land the Job You Want (Capstone Project)",
+        "score": 0.5817615985870361
+      },
+      {
+        "course_name": "Writing Winning Resumes and Cover Letters",
+        "score": 0.5774877667427063
+      }
+    ]
+  },
+  {
+    "job_title": "Job 2",
+    "recommended_courses": [
+      {
+        "course_name": "Writing Winning Resumes and Cover Letters",
+        "score": 0.5822868943214417
+      },
+      {
+        "course_name": "Database Management Essentials",
+        "score": 0.5764795541763306
+      },
+      {
+        "course_name": "Work Smarter, Not Harder: Time Management for Personal & Professional Productivity",
+        "score": 0.5656749606132507
+      }
+    ]
+  },
+  {
+    "job_title": "Job 3",
+    "recommended_courses": [
+      {
+        "course_name": "Become a JavaScript Pro with these 7 Skills",
+        "score": 0.5306735634803772
+      },
+      {
+        "course_name": "Capstone - Launch Your Own Business!",
+        "score": 0.5283935070037842
+      },
+      {
+        "course_name": "Just Reading and Writing English 2",
+        "score": 0.5165712833404541
+      }
+    ]
+  },
+  {
+    "job_title": "Job 4",
+    "recommended_courses": [
+      {
+        "course_name": "Hiring and Onboarding Employees with ClickUp",
+        "score": 0.6504071354866028
+      },
+      {
+        "course_name": "Building a Hiring Plan by Analyzing Past Data in Sheets",
+        "score": 0.6457927227020264
+      },
+      {
+        "course_name": "Intro to Scheduling with When I Work",
+        "score": 0.6185314655303955
+      }
+    ]
+  },
+  {
+    "job_title": "Job 5",
+    "recommended_courses": [
+      {
+        "course_name": "Supply Chain Analytics",
+        "score": 0.6036412119865417
+      },
+      {
+        "course_name": "Engineering Project Management: Initiating and Planning",
+        "score": 0.601649284362793
+      },
+      {
+        "course_name": "Introduction to Containers w/ Docker, Kubernetes & OpenShift",
+        "score": 0.5822676420211792
+      }
+    ]
+  },
+  {
+    "job_title": "Job 6",
+    "recommended_courses": [
+      {
+        "course_name": "Sales Operations: Final Project",
+        "score": 0.6953026056289673
+      },
+      {
+        "course_name": "Account Management & Sales Force Design",
+        "score": 0.6719039678573608
+      },
+      {
+        "course_name": "Sales Force Management",
+        "score": 0.658534586429596
+      }
+    ]
+  },
+  {
+    "job_title": "Job 7",
+    "recommended_courses": [
+      {
+        "course_name": "Translation quality management",
+        "score": 0.6283362507820129
+      },
+      {
+        "course_name": "Change Leadership: Developing Force Field Analysis in Miro",
+        "score": 0.6155294179916382
+      },
+      {
+        "course_name": "Information Systems Auditing, Controls and Assurance",
+        "score": 0.6111854910850525
+      }
+    ]
+  },
+  {
+    "job_title": "Job 8",
+    "recommended_courses": [
+      {
+        "course_name": "Managerial Accounting: Cost Behaviors, Systems, and Analysis",
+        "score": 0.6054092049598694
+      },
+      {
+        "course_name": "Business Operations Support in Google Sheets",
+        "score": 0.5831037759780884
+      },
+      {
+        "course_name": "Accounting for Business Decision Making: Measurement and Operational Decisions",
+        "score": 0.5756266117095947
+      }
+    ]
+  },
+  {
+    "job_title": "Job 9",
+    "recommended_courses": [
+      {
+        "course_name": "General Academic English",
+        "score": 0.5588655471801758
+      },
+      {
+        "course_name": "Professional Skills for International Business",
+        "score": 0.5517570972442627
+      },
+      {
+        "course_name": "Grow to Greatness: Smart Growth for Private Businesses, Part II",
+        "score": 0.5360723733901978
+      }
+    ]
+  },
+  {
+    "job_title": "Job 10",
+    "recommended_courses": [
+      {
+        "course_name": "Management and financial accounting: Know your numbers 1",
+        "score": 0.7242578268051147
+      },
+      {
+        "course_name": "Account Management & Sales Force Design",
+        "score": 0.6808027029037476
+      },
+      {
+        "course_name": "Accounting: Principles of Financial Accounting",
+        "score": 0.678281307220459
+      }
+    ]
+  },
+  {
+    "job_title": "Job 11",
+    "recommended_courses": [
+      {
+        "course_name": "Career Brand Development and Self-Coaching",
+        "score": 0.6400856971740723
+      },
+      {
+        "course_name": "Drug Commercialization",
+        "score": 0.6066000461578369
+      },
+      {
+        "course_name": "Fixing Healthcare Delivery 2.0: Advanced Lean",
+        "score": 0.6033895611763
+      }
+    ]
+  },
+  {
+    "job_title": "Job 12",
+    "recommended_courses": [
+      {
+        "course_name": "Work Smarter, Not Harder: Time Management for Personal & Professional Productivity",
+        "score": 0.6767115592956543
+      },
+      {
+        "course_name": "How to Get Skilled: Introduction to Individual Skills Management (Project-Centered Course)",
+        "score": 0.6764330863952637
+      },
+      {
+        "course_name": "Change Leadership: Developing Force Field Analysis in Miro",
+        "score": 0.6645020842552185
+      }
+    ]
+  },
+  {
+    "job_title": "Job 13",
+    "recommended_courses": [
+      {
+        "course_name": "Work Smarter, Not Harder: Time Management for Personal & Professional Productivity",
+        "score": 0.6381180286407471
+      },
+      {
+        "course_name": "Career Success Project",
+        "score": 0.6325388550758362
+      },
+      {
+        "course_name": "Business English: Final Project",
+        "score": 0.6318495273590088
+      }
+    ]
+  },
+  {
+    "job_title": "Job 14",
+    "recommended_courses": [
+      {
+        "course_name": "IBM Customer Engagement Specialist Professional Certificate",
+        "score": 0.7546241283416748
+      },
+      {
+        "course_name": "Career planning: resume/CV, cover letter, interview",
+        "score": 0.6425621509552002
+      },
+      {
+        "course_name": "Effective Sales � An Overview",
+        "score": 0.6361030340194702
+      }
+    ]
+  },
+  {
+    "job_title": "Job 15",
+    "recommended_courses": [
+      {
+        "course_name": "Better Business Writing in English",
+        "score": 0.7102285623550415
+      },
+      {
+        "course_name": "Business English: Final Project",
+        "score": 0.7014063596725464
+      },
+      {
+        "course_name": "English for Effective  Business Writing",
+        "score": 0.6933948397636414
+      }
+    ]
+  },
+  {
+    "job_title": "Job 16",
+    "recommended_courses": [
+      {
+        "course_name": "Create a Debt-Reduced Worksheet in Google Sheets",
+        "score": 0.5308831930160522
+      },
+      {
+        "course_name": "Business Operations Support in Google Sheets",
+        "score": 0.48870861530303955
+      },
+      {
+        "course_name": "Future Healthcare Payment Models",
+        "score": 0.4554081857204437
+      }
+    ]
+  },
+  {
+    "job_title": "Job 17",
+    "recommended_courses": [
+      {
+        "course_name": "Sales Force Management",
+        "score": 0.6915773153305054
+      },
+      {
+        "course_name": "Create Employee Management System with When I Work",
+        "score": 0.6506941318511963
+      },
+      {
+        "course_name": "Work Smarter, Not Harder: Time Management for Personal & Professional Productivity",
+        "score": 0.6493656635284424
+      }
+    ]
+  },
+  {
+    "job_title": "Job 18",
+    "recommended_courses": [
+      {
+        "course_name": "Procurement Negotiation",
+        "score": 0.7368865013122559
+      },
+      {
+        "course_name": "Supply Market Analysis",
+        "score": 0.6811456680297852
+      },
+      {
+        "course_name": "Procurement Basics",
+        "score": 0.6748507022857666
+      }
+    ]
+  },
+  {
+    "job_title": "Job 19",
+    "recommended_courses": [
+      {
+        "course_name": "IBM Customer Engagement Specialist Professional Certificate",
+        "score": 0.7324395179748535
+      },
+      {
+        "course_name": "Case studies in business analytics with ACCENTURE",
+        "score": 0.677008867263794
+      },
+      {
+        "course_name": "Effective Sales � An Overview",
+        "score": 0.6702854037284851
+      }
+    ]
+  },
+  {
+    "job_title": "Job 20",
+    "recommended_courses": [
+      {
+        "course_name": "Engineering Project Management: Scope, Time and Cost Management",
+        "score": 0.6797052621841431
+      },
+      {
+        "course_name": "Engineering Project Management: Initiating and Planning",
+        "score": 0.6783400774002075
+      },
+      {
+        "course_name": "Global Financing Solutions  (by EDHEC and Soci�t� G�n�rale)",
+        "score": 0.6672396659851074
+      }
+    ]
+  },
+  {
+    "job_title": "Job 21",
+    "recommended_courses": [
+      {
+        "course_name": "Successful Interviewing",
+        "score": 0.7805339097976685
+      },
+      {
+        "course_name": "Job Success: Get Hired or Promoted in 3 Steps",
+        "score": 0.7599216103553772
+      },
+      {
+        "course_name": "IBM IT Assessment: Identifying the Right Career for You!",
+        "score": 0.7482537627220154
+      }
+    ]
+  },
+  {
+    "job_title": "Job 22",
+    "recommended_courses": [
+      {
+        "course_name": "Analyze NPS Survey Data in Google Sheets",
+        "score": 0.677815318107605
+      },
+      {
+        "course_name": "Writing Winning Resumes and Cover Letters",
+        "score": 0.6612622737884521
+      },
+      {
+        "course_name": "Job Success: Get Hired or Promoted in 3 Steps",
+        "score": 0.6594514846801758
+      }
+    ]
+  },
+  {
+    "job_title": "Job 23",
+    "recommended_courses": [
+      {
+        "course_name": "Job Success: Get Hired or Promoted in 3 Steps",
+        "score": 0.585413932800293
+      },
+      {
+        "course_name": "Foundations for Interviewing with Confidence",
+        "score": 0.5771647691726685
+      },
+      {
+        "course_name": "Career Planning:  A Pathway to Employment",
+        "score": 0.5756047368049622
+      }
+    ]
+  },
+  {
+    "job_title": "Job 24",
+    "recommended_courses": [
+      {
+        "course_name": "Supply Chain Planning",
+        "score": 0.5020120143890381
+      },
+      {
+        "course_name": "Inventory Analytics",
+        "score": 0.4699745178222656
+      },
+      {
+        "course_name": "Supply Chain Excellence",
+        "score": 0.46622639894485474
+      }
+    ]
+  },
+  {
+    "job_title": "Job 25",
+    "recommended_courses": [
+      {
+        "course_name": "Predict Sales and Forecast Trends in Google Sheets",
+        "score": 0.6846588850021362
+      },
+      {
+        "course_name": "Work Smarter, Not Harder: Time Management for Personal & Professional Productivity",
+        "score": 0.6598586440086365
+      },
+      {
+        "course_name": "Account Management & Sales Force Design",
+        "score": 0.6513131856918335
+      }
+    ]
+  },
+  {
+    "job_title": "Job 26",
+    "recommended_courses": [
+      {
+        "course_name": "Content Strategy for Professionals: Ensuring Your Content's Impact",
+        "score": 0.7913289070129395
+      },
+      {
+        "course_name": "Content Strategy for Professionals: Managing Content",
+        "score": 0.7739359140396118
+      },
+      {
+        "course_name": "Content Strategy for Professionals: Expanding Your Content�s Reach",
+        "score": 0.773795485496521
+      }
+    ]
+  },
+  {
+    "job_title": "Job 27",
+    "recommended_courses": [
+      {
+        "course_name": "Work Smarter, Not Harder: Time Management for Personal & Professional Productivity",
+        "score": 0.636981189250946
+      },
+      {
+        "course_name": "Career Success Project",
+        "score": 0.6186290979385376
+      },
+      {
+        "course_name": "Personal Leadership Development Planning and Leading High Performing Teams",
+        "score": 0.6064021587371826
+      }
+    ]
+  },
+  {
+    "job_title": "Job 28",
+    "recommended_courses": [
+      {
+        "course_name": "Career Brand Development and Self-Coaching",
+        "score": 0.6729655861854553
+      },
+      {
+        "course_name": "Career planning: resume/CV, cover letter, interview",
+        "score": 0.6469549536705017
+      },
+      {
+        "course_name": "Engineering Project Management: Initiating and Planning",
+        "score": 0.6449307799339294
+      }
+    ]
+  },
+  {
+    "job_title": "Job 29",
+    "recommended_courses": [
+      {
+        "course_name": "Business English: Management and Leadership",
+        "score": 0.4980148673057556
+      },
+      {
+        "course_name": "Business English: Marketing and Sales",
+        "score": 0.4960850775241852
+      },
+      {
+        "course_name": "Storytelling and influencing: Communicate with impact",
+        "score": 0.4840767979621887
+      }
+    ]
+  },
+  {
+    "job_title": "Job 30",
+    "recommended_courses": [
+      {
+        "course_name": "Collect and Share Employee Feedback with Officevibe",
+        "score": 0.6292383670806885
+      },
+      {
+        "course_name": "Work Smarter, Not Harder: Time Management for Personal & Professional Productivity",
+        "score": 0.5857956409454346
+      },
+      {
+        "course_name": "Introduction to People Analytics",
+        "score": 0.5772675275802612
+      }
+    ]
+  },
+  {
+    "job_title": "Job 31",
+    "recommended_courses": [
+      {
+        "course_name": "Job Success: Get Hired or Promoted in 3 Steps",
+        "score": 0.6621825695037842
+      },
+      {
+        "course_name": "Career Brand Development and Self-Coaching",
+        "score": 0.6316729784011841
+      },
+      {
+        "course_name": "How to Get Skilled: Introduction to Individual Skills Management (Project-Centered Course)",
+        "score": 0.6263986825942993
+      }
+    ]
+  },
+  {
+    "job_title": "Job 32",
+    "recommended_courses": [
+      {
+        "course_name": "Marketing analytics: Know your customers",
+        "score": 0.5819761157035828
+      },
+      {
+        "course_name": "Customer-Centric IT Strategy",
+        "score": 0.5352354049682617
+      },
+      {
+        "course_name": "Introduction to CRM with HubSpot",
+        "score": 0.5270889401435852
+      }
+    ]
+  }
+]
