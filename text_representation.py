@@ -29,7 +29,8 @@ def map_similarity(job_df, course_df, top_k=3):
     print(">> Calculating similarities...")
     for i, job_row in job_df.iterrows():
         job_text = job_row['cleaned_text']
-        job_title = job_row.get('job_details', f"Job {i+1}")
+        job_title = job_row.get('job_title', f"Job {i+1}")
+        job_category = job_row.get('category', 'Unknown')
 
         sim_scores = util.cos_sim(job_embeddings[i], course_embeddings)[0]
         top_indices = torch.topk(sim_scores, k=top_k).indices.cpu().numpy()
@@ -44,6 +45,7 @@ def map_similarity(job_df, course_df, top_k=3):
 
         all_results.append({
             'job_title': job_title,
+            'job_category': job_category,
             'recommended_courses': recommended_courses
         })
 
