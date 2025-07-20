@@ -1,6 +1,7 @@
 [
   {
-    "job_title": "Job 1",
+    "job_title": "ADMIN STAFF",
+    "job_category": "Asisten Administratif (Administrasi & Dukungan Perkantoran)",
     "recommended_courses": [
       {
         "course_name": "Job Success: Get Hired or Promoted in 3 Steps",
@@ -17,7 +18,8 @@
     ]
   },
   {
-    "job_title": "Job 2",
+    "job_title": "Administration Staff",
+    "job_category": "Asisten Administratif (Administrasi & Dukungan Perkantoran)",
     "recommended_courses": [
       {
         "course_name": "Writing Winning Resumes and Cover Letters",
@@ -34,7 +36,8 @@
     ]
   },
   {
-    "job_title": "Job 3",
+    "job_title": "ADMIN STAFF",
+    "job_category": "Asisten Administratif (Administrasi & Dukungan Perkantoran)",
     "recommended_courses": [
       {
         "course_name": "Become a JavaScript Pro with these 7 Skills",
@@ -51,7 +54,8 @@
     ]
   },
   {
-    "job_title": "Job 4",
+    "job_title": "ADMINISTRATION",
+    "job_category": "Asisten Administratif (Administrasi & Dukungan Perkantoran)",
     "recommended_courses": [
       {
         "course_name": "Hiring and Onboarding Employees with ClickUp",
@@ -68,7 +72,8 @@
     ]
   },
   {
-    "job_title": "Job 5",
+    "job_title": "Staff Admin Seafreight",
+    "job_category": "Asisten Administratif (Administrasi & Dukungan Perkantoran)",
     "recommended_courses": [
       {
         "course_name": "Supply Chain Analytics",
@@ -85,7 +90,8 @@
     ]
   },
   {
-    "job_title": "Job 6",
+    "job_title": "Admin Sales",
+    "job_category": "Administrasi Klien & Penjualan (Administrasi & Dukungan Perkantoran)",
     "recommended_courses": [
       {
         "course_name": "Sales Operations: Final Project",
@@ -102,7 +108,8 @@
     ]
   },
   {
-    "job_title": "Job 7",
+    "job_title": "Staff Export - Import",
+    "job_category": "Impor/Ekspor & Pabean (Manufaktur, Transportasi & Logistik)",
     "recommended_courses": [
       {
         "course_name": "Translation quality management",
@@ -119,7 +126,8 @@
     ]
   },
   {
-    "job_title": "Job 8",
+    "job_title": "Admin",
+    "job_category": "Asisten Administratif (Administrasi & Dukungan Perkantoran)",
     "recommended_courses": [
       {
         "course_name": "Managerial Accounting: Cost Behaviors, Systems, and Analysis",
@@ -136,7 +144,8 @@
     ]
   },
   {
-    "job_title": "Job 9",
+    "job_title": "Frontliner/Teller",
+    "job_category": "Perbankan – Ritel/Cabang (Perbankan & Layanan Finansial)",
     "recommended_courses": [
       {
         "course_name": "General Academic English",
@@ -153,7 +162,8 @@
     ]
   },
   {
-    "job_title": "Job 10",
+    "job_title": "ADMINISTRASI STAFF",
+    "job_category": "Asisten Administratif (Administrasi & Dukungan Perkantoran)",
     "recommended_courses": [
       {
         "course_name": "Management and financial accounting: Know your numbers 1",
@@ -170,7 +180,8 @@
     ]
   },
   {
-    "job_title": "Job 11",
+    "job_title": "MGR/SPV/R&D TEKNIS/VIDEO EDITOR / KOL KOSMETIK SKIN CARE OEM",
+    "job_category": "Penyuntingan & Penerbitan (Periklanan, Seni & Media)",
     "recommended_courses": [
       {
         "course_name": "Career Brand Development and Self-Coaching",
@@ -187,7 +198,8 @@
     ]
   },
   {
-    "job_title": "Job 12",
+    "job_title": "Admin Staff",
+    "job_category": "Asisten Administratif (Administrasi & Dukungan Perkantoran)",
     "recommended_courses": [
       {
         "course_name": "Work Smarter, Not Harder: Time Management for Personal & Professional Productivity",
@@ -204,7 +216,8 @@
     ]
   },
   {
-    "job_title": "Job 13",
+    "job_title": "ADMINISTRASI STAFF",
+    "job_category": "Asisten Administratif (Administrasi & Dukungan Perkantoran)",
     "recommended_courses": [
       {
         "course_name": "Work Smarter, Not Harder: Time Management for Personal & Professional Productivity",
@@ -221,7 +234,8 @@
     ]
   },
   {
-    "job_title": "Job 14",
+    "job_title": "Customer Service (Ramadhan & Idul Fitri Support)",
+    "job_category": "Layanan Konsumen – Call Center (Call Center & Layanan Konsumen)",
     "recommended_courses": [
       {
         "course_name": "IBM Customer Engagement Specialist Professional Certificate",
@@ -238,7 +252,8 @@
     ]
   },
   {
-    "job_title": "Job 15",
+    "job_title": "Administration Staff",
+    "job_category": "Asisten Administratif (Administrasi & Dukungan Perkantoran)",
     "recommended_courses": [
       {
         "course_name": "Better Business Writing in English",
@@ -255,7 +270,8 @@
     ]
   },
   {
-    "job_title": "Job 16",
+    "job_title": "AR & COLLECTION STAFF",
+    "job_category": "Piutang Usaha/Pengendalian Kredit (Akuntansi)",
     "recommended_courses": [
       {
         "course_name": "Create a Debt-Reduced Worksheet in Google Sheets",
@@ -272,7 +288,8 @@
     ]
   },
   {
-    "job_title": "Job 17",
+    "job_title": "SALES & LOGISTIC ADMIN STAFF",
+    "job_category": "Pergudangan, Penyimpanan & Distribusi (Manufaktur, Transportasi & Logistik)",
     "recommended_courses": [
       {
         "course_name": "Sales Force Management",
@@ -289,7 +306,8 @@
     ]
   },
   {
-    "job_title": "Job 18",
+    "job_title": "Staff Procurement",
+    "job_category": "Pembelian, Pengadaan & Inventaris (Manufaktur, Transportasi & Logistik)",
     "recommended_courses": [
       {
         "course_name": "Procurement Negotiation",
@@ -306,7 +324,8 @@
     ]
   },
   {
-    "job_title": "Job 19",
+    "job_title": "Customer Service Agent",
+    "job_category": "Layanan Konsumen – Call Center (Call Center & Layanan Konsumen)",
     "recommended_courses": [
       {
         "course_name": "IBM Customer Engagement Specialist Professional Certificate",
@@ -323,7 +342,8 @@
     ]
   },
   {
-    "job_title": "Job 20",
+    "job_title": "Administrasi Purchasing",
+    "job_category": "Asisten Administratif (Administrasi & Dukungan Perkantoran)",
     "recommended_courses": [
       {
         "course_name": "Engineering Project Management: Scope, Time and Cost Management",
@@ -340,7 +360,8 @@
     ]
   },
   {
-    "job_title": "Job 21",
+    "job_title": "Staff Talent Acquisition",
+    "job_category": "Perekrutan – Internal (Sumber Daya Manusia & Perekrutan)",
     "recommended_courses": [
       {
         "course_name": "Successful Interviewing",
@@ -357,7 +378,8 @@
     ]
   },
   {
-    "job_title": "Job 22",
+    "job_title": "Staff Administrasi",
+    "job_category": "Asisten Administratif (Administrasi & Dukungan Perkantoran)",
     "recommended_courses": [
       {
         "course_name": "Analyze NPS Survey Data in Google Sheets",
@@ -374,7 +396,8 @@
     ]
   },
   {
-    "job_title": "Job 23",
+    "job_title": "Exclusive Beauty Advisor",
+    "job_category": "Asisten Ritel (Ritel & Produk Konsumen)",
     "recommended_courses": [
       {
         "course_name": "Job Success: Get Hired or Promoted in 3 Steps",
@@ -391,7 +414,8 @@
     ]
   },
   {
-    "job_title": "Job 24",
+    "job_title": "Administrasi PPIC ( Production Planning Inventory Control)",
+    "job_category": "Produksi, Perencanaan & Penjadwalan (Manufaktur, Transportasi & Logistik)",
     "recommended_courses": [
       {
         "course_name": "Supply Chain Planning",
@@ -408,7 +432,8 @@
     ]
   },
   {
-    "job_title": "Job 25",
+    "job_title": "Administration Staff",
+    "job_category": "Asisten Administratif (Administrasi & Dukungan Perkantoran)",
     "recommended_courses": [
       {
         "course_name": "Predict Sales and Forecast Trends in Google Sheets",
@@ -425,7 +450,8 @@
     ]
   },
   {
-    "job_title": "Job 26",
+    "job_title": "Staf Sosial Media",
+    "job_category": "Strategi Media, Perencanaan & Pembelian (Periklanan, Seni & Media)",
     "recommended_courses": [
       {
         "course_name": "Content Strategy for Professionals: Ensuring Your Content's Impact",
@@ -442,7 +468,8 @@
     ]
   },
   {
-    "job_title": "Job 27",
+    "job_title": "Administration",
+    "job_category": "Asisten Administratif (Administrasi & Dukungan Perkantoran)",
     "recommended_courses": [
       {
         "course_name": "Work Smarter, Not Harder: Time Management for Personal & Professional Productivity",
@@ -459,7 +486,8 @@
     ]
   },
   {
-    "job_title": "Job 28",
+    "job_title": "Admin",
+    "job_category": "Asisten Administratif (Administrasi & Dukungan Perkantoran)",
     "recommended_courses": [
       {
         "course_name": "Career Brand Development and Self-Coaching",
@@ -476,7 +504,8 @@
     ]
   },
   {
-    "job_title": "Job 29",
+    "job_title": "Personal assistant",
+    "job_category": "Asisten Pribadi, Asisten Eksekutif & Sekretarial (Administrasi & Dukungan Perkantoran)",
     "recommended_courses": [
       {
         "course_name": "Business English: Management and Leadership",
@@ -493,7 +522,8 @@
     ]
   },
   {
-    "job_title": "Job 30",
+    "job_title": "Assistant Office Manager",
+    "job_category": "Manajemen Perkantoran (Administrasi & Dukungan Perkantoran)",
     "recommended_courses": [
       {
         "course_name": "Collect and Share Employee Feedback with Officevibe",
@@ -510,7 +540,8 @@
     ]
   },
   {
-    "job_title": "Job 31",
+    "job_title": "Host Live Streaming",
+    "job_category": "Program & Produksi (Periklanan, Seni & Media)",
     "recommended_courses": [
       {
         "course_name": "Job Success: Get Hired or Promoted in 3 Steps",
@@ -527,7 +558,8 @@
     ]
   },
   {
-    "job_title": "Job 32",
+    "job_title": "Customer Service and Operation Specialist (air freight and ocean freight）",
+    "job_category": "Pengapalan/Pengurusan Transportasi (Manufaktur, Transportasi & Logistik)",
     "recommended_courses": [
       {
         "course_name": "Marketing analytics: Know your customers",
